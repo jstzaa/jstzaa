@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Setiap jam
+    - cron: '*/1 * * * *'  # Setiap jam
   workflow_dispatch:      # Bisa juga dijalankan manual
 
 jobs:
