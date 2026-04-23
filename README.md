@@ -13,7 +13,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jstzaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=jstzaa&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jstzaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
