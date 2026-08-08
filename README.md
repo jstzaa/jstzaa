@@ -1,5 +1,5 @@
 # Hi there👋, I'm Fahriza Kurniawan🌟
-📚I'm currently studying at SMK Al-Khoeriyah<br>💻I have an interest in technology<br>⭐I'm looking for opportunities
+📚I'm currently studying at Siliwangi University<br>💻I have an interest in technology<br>⭐I'm looking for opportunities
 
 
 ## Socials:
