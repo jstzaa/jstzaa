@@ -16,6 +16,8 @@
 | AI Tools | ![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-1a1a1a.svg?style=for-the-badge) ![Claude](https://img.shields.io/badge/claude-D97757.svg?style=for-the-badge&logo=claude&logoColor=white) |
 
 ## GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jstzaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=jstzaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=jstzaa&theme=transparent&hide_border=true" width="49%" />
